@@ -3,7 +3,7 @@ Malaria App for Android
 
 This is the repo for the Android version of Malaria App. 
 
-> #### Malaria App README Repo: [malaria-app-readme](https://github.com/PeaceCorps/malaria-app-readme)
+> #### Malaria App README Repo: [malaria-app-readme](https://github.com/PeaceCorps/malaria-app-readme1)
 
 > Please use Malaria App README for discussions, decision making, and feedback about project goals and features so that the user experience **across platforms** is uniform.
 
